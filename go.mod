@@ -1,3 +1,12 @@
-module github.com/Sombrer0Dev/authgithub.com/Sombrer0Dev/auth
+module github.com/Sombrer0Dev/auth
 
 go 1.21.5
+
+require (
+	github.com/BurntSushi/toml v1.3.2 // indirect
+	github.com/Sombrer0Dev/grad-protos v0.0.0-20240131164841-09ed6433462b // indirect
+	github.com/ilyakaznacheev/cleanenv v1.5.0 // indirect
+	github.com/joho/godotenv v1.5.1 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
+	olympos.io/encoding/edn v0.0.0-20201019073823-d3554ca0b0a3 // indirect
+)
